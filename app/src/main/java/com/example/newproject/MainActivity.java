@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Hello Word!");
         System.out.println("Hello Word!");
         System.out.println("Hello Word!");
-        System.out.println("Hello Wordl!");
+        System.out.println("Hello Word!");
     }
 }
